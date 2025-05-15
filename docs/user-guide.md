@@ -1,0 +1,1 @@
+# Stand Strategist User Guide

@@ -1,0 +1,1 @@
+# Stand Strategist Developer Guide
